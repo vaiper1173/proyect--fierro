@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 2 TAP", "Practica 2 TAP\Practica 2 TAP.csproj", "{05B56D0A-0BD5-42CF-9E7F-4A347F06CDEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05B56D0A-0BD5-42CF-9E7F-4A347F06CDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B56D0A-0BD5-42CF-9E7F-4A347F06CDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B56D0A-0BD5-42CF-9E7F-4A347F06CDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B56D0A-0BD5-42CF-9E7F-4A347F06CDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D8790F7-F359-4B44-82CA-539FF0271455}
+	EndGlobalSection
+EndGlobal
