@@ -28,7 +28,7 @@ namespace Practica_2_TAP
         /// </summary>
         private void InitializeComponent()
         {
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.Tablazo = new System.Windows.Forms.GroupBox();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -38,7 +38,7 @@ namespace Practica_2_TAP
             this.button7 = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
             this.button9 = new System.Windows.Forms.Button();
-            this.button10 = new System.Windows.Forms.Button();
+            this.btn_reinicio = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -46,26 +46,25 @@ namespace Practica_2_TAP
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.groupBox1.SuspendLayout();
+            this.Tablazo.SuspendLayout();
             this.SuspendLayout();
             // 
-            // groupBox1
+            // Tablazo
             // 
-            this.groupBox1.Controls.Add(this.button9);
-            this.groupBox1.Controls.Add(this.button8);
-            this.groupBox1.Controls.Add(this.button7);
-            this.groupBox1.Controls.Add(this.button6);
-            this.groupBox1.Controls.Add(this.button5);
-            this.groupBox1.Controls.Add(this.button4);
-            this.groupBox1.Controls.Add(this.button3);
-            this.groupBox1.Controls.Add(this.button2);
-            this.groupBox1.Controls.Add(this.button1);
-            this.groupBox1.Location = new System.Drawing.Point(12, 107);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(555, 561);
-            this.groupBox1.TabIndex = 0;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "groupBox1";
+            this.Tablazo.Controls.Add(this.button9);
+            this.Tablazo.Controls.Add(this.button8);
+            this.Tablazo.Controls.Add(this.button7);
+            this.Tablazo.Controls.Add(this.button6);
+            this.Tablazo.Controls.Add(this.button5);
+            this.Tablazo.Controls.Add(this.button4);
+            this.Tablazo.Controls.Add(this.button3);
+            this.Tablazo.Controls.Add(this.button2);
+            this.Tablazo.Controls.Add(this.button1);
+            this.Tablazo.Location = new System.Drawing.Point(12, 107);
+            this.Tablazo.Name = "Tablazo";
+            this.Tablazo.Size = new System.Drawing.Size(555, 561);
+            this.Tablazo.TabIndex = 0;
+            this.Tablazo.TabStop = false;
             // 
             // button1
             // 
@@ -148,14 +147,14 @@ namespace Practica_2_TAP
             this.button9.Text = "button9";
             this.button9.UseVisualStyleBackColor = true;
             // 
-            // button10
+            // btn_reinicio
             // 
-            this.button10.Location = new System.Drawing.Point(222, 12);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(101, 88);
-            this.button10.TabIndex = 1;
-            this.button10.Text = "Boton de Reinicio";
-            this.button10.UseVisualStyleBackColor = true;
+            this.btn_reinicio.Location = new System.Drawing.Point(222, 12);
+            this.btn_reinicio.Name = "btn_reinicio";
+            this.btn_reinicio.Size = new System.Drawing.Size(101, 88);
+            this.btn_reinicio.TabIndex = 1;
+            this.btn_reinicio.Text = "Boton de Reinicio";
+            this.btn_reinicio.UseVisualStyleBackColor = true;
             // 
             // label1
             // 
@@ -232,19 +231,19 @@ namespace Practica_2_TAP
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.button10);
-            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.btn_reinicio);
+            this.Controls.Add(this.Tablazo);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.groupBox1.ResumeLayout(false);
+            this.Tablazo.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.GroupBox Tablazo;
         private System.Windows.Forms.Button button9;
         private System.Windows.Forms.Button button8;
         private System.Windows.Forms.Button button7;
@@ -254,7 +253,7 @@ namespace Practica_2_TAP
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.Button btn_reinicio;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
