@@ -20,11 +20,19 @@ namespace Practica_2_TAP
         public Form1()
         {
             InitializeComponent();
+            iniciojuego();
         }
 
+        public void iniciojuego()
+        {
+            int[,] matrizactual = new int [3,3];
+            int turno = 1;
 
+        }
+
+        publix
         //Al chile no entendi lo que querias hacer pero lo guardare y lo usare de referencia
-        private void boton1_clic(object sender, EventArgs pizo)
+        /*private void boton1_clic(object sender, EventArgs pizo)
         {
             if (sim)
             {
@@ -44,7 +52,7 @@ namespace Practica_2_TAP
             if (sim)
             {
                 sim = false;
-                ((Button)sender).Image = Image.FromFile("la otra imagen");
+                ((Button)sender).Image = Properties.Resources.O.png;
                 ((Button)sender).Enabled = false;
             }
             else
@@ -65,6 +73,6 @@ namespace Practica_2_TAP
             }
             
 
-        } 
+        } */
     }
 }
