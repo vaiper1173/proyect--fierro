@@ -22,6 +22,8 @@ namespace Practica_2_TAP
             InitializeComponent();
         }
 
+
+        //Al chile no entendi lo que querias hacer pero lo guardare y lo usare de referencia
         private void boton1_clic(object sender, EventArgs pizo)
         {
             if (sim)
@@ -36,6 +38,7 @@ namespace Practica_2_TAP
                 button1.Enabled = false;
             }
         }
+        
         private void tablero_click(object sender, EventArgs pizo)
         {
             if (sim)
@@ -60,6 +63,7 @@ namespace Practica_2_TAP
                 ((Button)sano).Image = null;
                 sano.Enabled = true;
             }
+            
 
         } 
     }
