@@ -1,0 +1,10 @@
+c:\users\gena4\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+c:\users\gena4\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+c:\users\gena4\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+c:\users\gena4\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+c:\users\gena4\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+c:\users\gena4\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+c:\users\gena4\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+c:\users\gena4\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+c:\users\gena4\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+c:\users\gena4\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
