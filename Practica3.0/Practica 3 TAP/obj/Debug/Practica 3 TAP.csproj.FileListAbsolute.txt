@@ -1,0 +1,10 @@
+C:\Users\jaror\Desktop\Desarollo de Software\Topicos Avanzados de programacion\Practica002\practica3TAP\Practica 3 TAP\bin\Debug\Practica 3 TAP.exe.config
+C:\Users\jaror\Desktop\Desarollo de Software\Topicos Avanzados de programacion\Practica002\practica3TAP\Practica 3 TAP\bin\Debug\Practica 3 TAP.exe
+C:\Users\jaror\Desktop\Desarollo de Software\Topicos Avanzados de programacion\Practica002\practica3TAP\Practica 3 TAP\bin\Debug\Practica 3 TAP.pdb
+C:\Users\jaror\Desktop\Desarollo de Software\Topicos Avanzados de programacion\Practica002\practica3TAP\Practica 3 TAP\obj\Debug\Practica 3 TAP.csprojAssemblyReference.cache
+C:\Users\jaror\Desktop\Desarollo de Software\Topicos Avanzados de programacion\Practica002\practica3TAP\Practica 3 TAP\obj\Debug\Practica_3_TAP.Form1.resources
+C:\Users\jaror\Desktop\Desarollo de Software\Topicos Avanzados de programacion\Practica002\practica3TAP\Practica 3 TAP\obj\Debug\Practica_3_TAP.Properties.Resources.resources
+C:\Users\jaror\Desktop\Desarollo de Software\Topicos Avanzados de programacion\Practica002\practica3TAP\Practica 3 TAP\obj\Debug\Practica 3 TAP.csproj.GenerateResource.cache
+C:\Users\jaror\Desktop\Desarollo de Software\Topicos Avanzados de programacion\Practica002\practica3TAP\Practica 3 TAP\obj\Debug\Practica 3 TAP.csproj.CoreCompileInputs.cache
+C:\Users\jaror\Desktop\Desarollo de Software\Topicos Avanzados de programacion\Practica002\practica3TAP\Practica 3 TAP\obj\Debug\Practica 3 TAP.exe
+C:\Users\jaror\Desktop\Desarollo de Software\Topicos Avanzados de programacion\Practica002\practica3TAP\Practica 3 TAP\obj\Debug\Practica 3 TAP.pdb

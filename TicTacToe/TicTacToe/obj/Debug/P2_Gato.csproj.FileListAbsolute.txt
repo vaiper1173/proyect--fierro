@@ -1,0 +1,20 @@
+C:\Users\Jared Ortega\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Jared Ortega\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Jared Ortega\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Jared Ortega\Desktop\TicTacToe\TicTacToe\obj\Debug\P2_Gato.csprojResolveAssemblyReference.cache
+C:\Users\Jared Ortega\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\Jared Ortega\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Jared Ortega\Desktop\TicTacToe\TicTacToe\obj\Debug\P2_Gato.csproj.GenerateResource.Cache
+C:\Users\Jared Ortega\Desktop\TicTacToe\TicTacToe\obj\Debug\P2_Gato.csproj.CoreCompileInputs.cache
+C:\Users\Jared Ortega\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Jared Ortega\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\jaror\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\jaror\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\jaror\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\jaror\Desktop\TicTacToe\TicTacToe\obj\Debug\P2_Gato.csprojAssemblyReference.cache
+C:\Users\jaror\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\jaror\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\jaror\Desktop\TicTacToe\TicTacToe\obj\Debug\P2_Gato.csproj.GenerateResource.cache
+C:\Users\jaror\Desktop\TicTacToe\TicTacToe\obj\Debug\P2_Gato.csproj.CoreCompileInputs.cache
+C:\Users\jaror\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\jaror\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
